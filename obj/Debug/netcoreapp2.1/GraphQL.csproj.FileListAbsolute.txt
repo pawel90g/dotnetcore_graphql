@@ -1,0 +1,14 @@
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.csprojAssemblyReference.cache
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.csproj.CoreCompileInputs.cache
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.RazorAssemblyInfo.cache
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.RazorAssemblyInfo.cs
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.AssemblyInfoInputs.cache
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.AssemblyInfo.cs
+D:\Projects\Custom\.NET Core\GraphQL\bin\Debug\netcoreapp2.1\GraphQL.deps.json
+D:\Projects\Custom\.NET Core\GraphQL\bin\Debug\netcoreapp2.1\GraphQL.runtimeconfig.json
+D:\Projects\Custom\.NET Core\GraphQL\bin\Debug\netcoreapp2.1\GraphQL.runtimeconfig.dev.json
+D:\Projects\Custom\.NET Core\GraphQL\bin\Debug\netcoreapp2.1\GraphQL.dll
+D:\Projects\Custom\.NET Core\GraphQL\bin\Debug\netcoreapp2.1\GraphQL.pdb
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.RazorTargetAssemblyInfo.cache
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.dll
+D:\Projects\Custom\.NET Core\GraphQL\obj\Debug\netcoreapp2.1\GraphQL.pdb
